@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Calle</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate full stack developer from Peru</h3>
 
 - 🔭 I’m currently working on [Agilix](https://github.com/JoseEnriquez88/Agilix)
 
