@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and SASS**
 
-- 💬 Ask me about **React, JavaScript, CSS , Redux, Sequelize**
+- 💬 Ask me about **React, JavaScript, CSS , Redux, Sequelize, PostgreSQL**
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
