@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate full stack developer from Peru</h3>
 
-- 🔭 I’m currently working on [Agilix](https://github.com/JoseEnriquez88/Agilix)
+- 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/Portfolio)
 
 - 🌱 I’m currently learning **TypeScript and SASS**
 
