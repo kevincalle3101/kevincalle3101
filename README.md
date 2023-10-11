@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevincalle3101" alt="kevincalle3101" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kevincalle31" target="blank"><img src="https://img.shields.io/twitter/follow/kevincalle31?logo=twitter&style=for-the-badge" alt="kevincalle31" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/portfolio)
@@ -27,7 +25,6 @@
 <a href="https://twitter.com/kevincalle31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevincalle31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/kevin-calle-53935b273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kevincalle31011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kevincalle31011" height="30" width="40" /></a>
-<a href="https://discord.gg/.kevincalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".kevincalle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
