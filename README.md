@@ -1,4 +1,3 @@
-[[!MasterHead](https://res.cloudinary.com/db7abalur/image/upload/v1697075412/Banner_de_Youtube_de_Tecnolog%C3%ADa_Fallo_Digital_Glitch_Negro_y_Morado_ftlpxp.gif)]
 <h1 align="center">Hi 👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
 <br/>
