@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kevincalle31" target="blank"><img src="https://img.shields.io/twitter/follow/kevincalle31?logo=twitter&style=for-the-badge" alt="kevincalle31" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/portfolio)
+- 🔭 I’m currently working on [Gaia Ecotrack](https://github.com/ilichb/GaiaEcotrack)
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS**
 
