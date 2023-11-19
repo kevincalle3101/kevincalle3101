@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kevincalle31" target="blank"><img src="https://img.shields.io/twitter/follow/kevincalle31?logo=twitter&style=for-the-badge" alt="kevincalle31" /></a> </p>
 
-- 🔭 I’m currently working on [Gaia Ecotrack](https://github.com/ilichb/GaiaEcotrack)
+- 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/portfolio)
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1QLcIJDNrsXwOMED7oH5oYQsiRxeLBpCF/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1lHvUhjqS-4eCNa7Ote3GmQy4itHshcMx/view?usp=drive_link)
 
 - ⚡ Fun fact **I have a thick voice, but fine voice when I sing**
 
