@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kevincalleportfolio.online/](https://www.kevincalleportfolio.online/)
 
-- 💬 Ask me about **React, Git, Typescript**
+- 💬 Ask me about **React, CSS, Typescript**
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
