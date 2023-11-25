@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://kevincalleportfolio.online/](https://www.kevincalleportfolio.online/)
+- 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
 
 - 💬 Ask me about **React, CSS, Typescript**
 
