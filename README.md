@@ -32,14 +32,14 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevincalle3101&show_icons=true&locale=en&layout=compact" alt="kevincalle3101" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevincalle3101&show_icons=true&locale=en&layout=compact&theme=react" alt="kevincalle3101" />
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevincalle3101&show_icons=true&locale=en" alt="kevincalle3101" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kevincalle3101&show_icons=true&locale=en&theme=react" alt="kevincalle3101" />
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevincalle3101&" alt="kevincalle3101" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevincalle3101&theme=react" alt="kevincalle3101" />
   </div>
 </div>
