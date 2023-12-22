@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1A5z88bRGf8SVsHu_3Dvpx77g-tbIv7xL/view?usp=drive_link)
 
-- ⚡ Fun fact **I have a thick voice, but fine voice when I sing**
+- ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
