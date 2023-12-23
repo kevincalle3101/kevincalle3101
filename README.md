@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/portfolio)
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS, Python**
+- 🌱 I’m currently learning **Next.js, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
 
