@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kevincalle31" target="blank"><img src="https://img.shields.io/twitter/follow/kevincalle31?logo=twitter&style=for-the-badge" alt="kevincalle31" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/kevincalle3101/portfolio)
 
