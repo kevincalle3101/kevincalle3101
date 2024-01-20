@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Flexwork LATAM](https://github.com/flexworkFullteam/client)
 
-- 🌱 I’m currently learning **mongoDB*
+- 🌱 I’m currently learning *MongoDB*
 
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
 
