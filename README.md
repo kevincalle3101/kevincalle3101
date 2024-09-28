@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
 
-- 💬 Ask me about **React, CSS, Typescript**
+- 💬 Ask me about **React, CSS, Typescript, Nest.js**
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
