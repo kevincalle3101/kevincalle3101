@@ -1,5 +1,5 @@
 ![logo](https://github.com/kevincalle3101/kevincalle3101/blob/main/githubBanner.gif)
-<h1 align="center">Hi! 👋, I'm Kevin Calle</h1>
+<h1 align="center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
 <img align="right" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
