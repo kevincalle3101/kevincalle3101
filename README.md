@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ID Business Intelligence](https://github.com/flexworkFullteam/client)
 
-- 🌱 I’m currently learning *React Native, Python*
+- 🌱 I’m currently learning *React Native*
 
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
 
