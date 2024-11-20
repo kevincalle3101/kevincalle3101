@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *React Native*
 
-- 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.online/)
+- 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
 
 - 💬 Ask me about **React, Zustand, Bootstrap, Typescript, Nest.js**
 
