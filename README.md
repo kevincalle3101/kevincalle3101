@@ -1,6 +1,4 @@
-
-![FU](https://github.com/user-attachments/assets/9fe76adc-586d-4ce6-b447-7a73b77f22f6)
-
+![FU](https://github.com/user-attachments/assets/0ce53611-d00c-41f5-af0d-560b2a1816a6)
 <h1 align=![Uploading FU.gif…]()
 "center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
