@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/531ffe48-b12c-4a0d-95a5-55ba295181e6)
+![logo](https://github.com/user-attachments/assets/038745fd-7f88-4323-ba81-cc3fab14a2e7)
 <h1 align="center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
