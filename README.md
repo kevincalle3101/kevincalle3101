@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1OodcnZQS6o2iCzxP6V0wkFUakXEsTNut/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
 
 - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
