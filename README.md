@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
 
-- 💬 Ask me about **React, Zustand, Typescript,Node.js, Nest, Bootstrap**
+- 💬 Ask me about **React, Zustand, Typescript, Bootstrap, Node.js, Nest, Bootstrap**
 
 - 📫 How to reach me **kevincalle3101@gmail.com**
 
