@@ -3,11 +3,11 @@
 "center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
-<img align="left" alt="CodingVintage" width="350" height="425" style="margin-right: 20px" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
+<img align="left" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
-
+<p style="margin-left: 20px">
 - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
 
 - 🌱 I’m currently learning *React Native*
@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
 
 - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
