@@ -1,7 +1,7 @@
 ![FU](https://github.com/user-attachments/assets/0ce53611-d00c-41f5-af0d-560b2a1816a6)
 <h1 align="center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
-<div tyle="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 <img align="left" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
 
 <p align="right">
