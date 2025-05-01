@@ -1,11 +1,12 @@
 ![FU](https://github.com/user-attachments/assets/0ce53611-d00c-41f5-af0d-560b2a1816a6)
-<h1 align=![Uploading FU.gif…]() "center">Hi!👋, I'm Kevin Calle</h1>
+<h1 align="center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
 <img align="left" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
+<p>
 - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
 
 - 🌱 I’m currently learning *React Native*
