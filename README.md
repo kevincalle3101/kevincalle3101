@@ -5,7 +5,7 @@
 <img align="left" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
 
 <p align="right" style="margin-left: 20px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
 - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
 
@@ -21,8 +21,8 @@
 
 - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kevincalle31011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kevincalle31011" height="30" width="40" /></a>
 </p>
