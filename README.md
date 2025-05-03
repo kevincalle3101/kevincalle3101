@@ -7,19 +7,19 @@
   <p align="right">
     <p > <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
-    - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
+  - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
 
-    - 🌱 I’m currently learning *React Native*
+  - 🌱 I’m currently learning *React Native*
 
-    - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
+  - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
 
-    - 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**
+  - 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**
 
-    - 📫 How to reach me **kevincalle3101@gmail.com**
+  - 📫 How to reach me **kevincalle3101@gmail.com**
 
-    - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
+  - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
 
-    - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
+  - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
 <h3>Connect with me:</h3>
 <p>
