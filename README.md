@@ -2,12 +2,12 @@
 <h1 align="center">Hi!👋, I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
-<table style="border: none;">
+<table>
   <tr>
-    <td style="border: none; vertical-align: top;">
-      <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="300" />
+    <td>
+      <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="350" />
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td>
       <p>
         <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
       </p>
