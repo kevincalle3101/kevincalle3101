@@ -3,33 +3,26 @@
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
 <div >
-  <img align="left" alt="CodingVintage" width="400" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
-  <p align="right">
-    <p > <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
+<img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="300" align="left" style="margin-right: 20px;"/>
 
-  - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)
+<p>
+  
+![Profile views](https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat)
 
-  - 🌱 I’m currently learning *React Native*
+- 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)  
+- 🌱 I’m currently learning *React Native*  
+- 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)  
+- 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**  
+- 📫 How to reach me **kevincalle3101@gmail.com**  
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)  
+- ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
-  - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
+### Connect with me
 
-  - 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/kevin-calle-53935b273/)
+[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/kevincalle31011)
 
-  - 📫 How to reach me **kevincalle3101@gmail.com**
-
-  - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
-
-  - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
-
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            
-      alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
-      <a href="https://www.hackerrank.com/kevincalle31011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kevincalle31011" height="30"     
-      width="40"/>     
-      </a>
-    </p>
-  </p>
+</p>
 </div>
 <br>
 <h3 >Languages and Tools:</h3>
