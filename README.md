@@ -4,7 +4,7 @@
 
 <table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none; vertical-align: top;">
       <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="300" />
     </td>
     <td>
