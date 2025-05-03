@@ -21,12 +21,15 @@
 
   - ⚡ Fun fact **I have a thick speaking voice, but fine voice when I sing**
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kevincalle31011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kevincalle31011" height="30" width="40" /></a>
-</p>
-</p>
+    <h3>Connect with me:</h3>
+    <p>
+      <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            
+      alt="www.linkedin.com/in/kevin-calle-53935b273" height="30" width="40" /></a>
+      <a href="https://www.hackerrank.com/kevincalle31011" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kevincalle31011" height="30"     
+      width="40"/>     
+      </a>
+    </p>
+  </p>
 </div>
 <br>
 <h3 >Languages and Tools:</h3>
