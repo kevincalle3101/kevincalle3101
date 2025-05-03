@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%">
-  <img align="left" alt="CodingVintage" width="350" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
+  <img align="left" alt="CodingVintage" width="300" height="425" src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif"/>
   <p align="right">
     <p > <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="kevincalle3101" /> </p>
 
