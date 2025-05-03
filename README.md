@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="350" />
+      <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="CodingVintage" width="350" height="425" />
     </td>
     <td>
       <p>
