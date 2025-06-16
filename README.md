@@ -17,7 +17,7 @@
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)  
 - ⚡ Fun fact: **I have a thick speaking voice, but fine voice when I sing**
 
----
+<h1></h1>
 
 ### Connect with me
 
