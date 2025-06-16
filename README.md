@@ -5,7 +5,7 @@
   <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" width="300" alt="Coding Kevin" />
 </p>
 
-
+---
 
 - 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)  
 - 🌱 I’m currently learning *React Native*  
@@ -59,10 +59,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevincalle3101&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kevincalle3101&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
 </p>
