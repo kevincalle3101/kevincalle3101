@@ -1,72 +1,31 @@
-<h1 align="center">Hi! 👋 I'm Kevin Calle</h1>
-<h3 align="center">A passionate fullstack web developer from Perú</h3>
+# 👋 Hi, I'm Kevin Calle
 
-<p align="center">
-  <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" width="300" alt="Coding Kevin" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+**Fullstack Developer** from **Perú**, passionate about building fast, beautiful, and scalable web apps.
 
 ---
 
-- 🔭 I’m currently working on [HOMI.GG](https://github.com/flexworkFullteam/client)  
-- 🌱 I’m currently learning *React Native*  
-- 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)  
-- 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**  
-- 📫 How to reach me: **kevincalle3101@gmail.com**  
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)  
-- ⚡ Fun fact: **I have a thick speaking voice, but fine voice when I sing**
+## 🚀 About Me
+
+- 🔭 Currently building [HOMI.GG](https://github.com/flexworkFullteam/client)
+- 🌱 Learning **React Native**
+- 💬 Ask me about: `React`, `Zustand`, `TypeScript`, `Node.js`, `NestJS`
+- 📫 Reach me at: **kevincalle3101@gmail.com**
+- 🧾 [My CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
+- ⚡ Fun fact: My speaking voice is deep—but my singing voice is smooth 😄
 
 ---
 
-### Connect with me
+## 🔗 Links
 
-<p>
-  <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/kevincalle31011" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
-  </a>
-</p>
+- 🌐 [Portfolio Website](https://www.kevincalleportfolio.site)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-calle-53935b273/)
+- 🧠 [HackerRank](https://www.hackerrank.com/kevincalle31011)
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevincalle3101&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevincalle3101&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-</p>
+```ts
+Frontend:  React · Next.js · TypeScript · Redux · TailwindCSS · SCSS  
+Backend:   Node.js · NestJS · Express · PostgreSQL  
+Other:     Figma · Git · Postman · Photoshop · Jest · Babel · Webpack  
