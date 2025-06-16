@@ -20,12 +20,8 @@
 ### Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/kevin-calle-53935b273/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-calle-mendoza-53935b273" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/kevincalle31011" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
   </a>
 </p>
 
