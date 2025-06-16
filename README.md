@@ -1,6 +1,6 @@
 ![FU](https://github.com/user-attachments/assets/0ce53611-d00c-41f5-af0d-560b2a1816a6)
 
-<h3 align="center" style="font-size: 4rem;">Hi! 👋 I'm Kevin Calle</h3>
+<p align="center" style="font-size: 4rem;">Hi! 👋 I'm Kevin Calle</p>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
 <p align="center">
