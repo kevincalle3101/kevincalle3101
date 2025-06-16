@@ -1,7 +1,5 @@
 ![FU](https://github.com/user-attachments/assets/0ce53611-d00c-41f5-af0d-560b2a1816a6)
 
-<p>&nbsp;</p>
-
 <h1 align="center">Hi! 👋 I'm Kevin Calle</h1>
 <h3 align="center">A passionate fullstack web developer from Perú</h3>
 
@@ -52,9 +50,10 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9a19887b-c348-465f-97ec-79892c076f05" width="40" /></a>
   <a href="https://www.notion.so/" target="_blank"><img src="https://github.com/NX211/homer-icons/blob/master/svg/notion.svg" width="40" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" width="80" /></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/typeorm.svg" width="40" /></a>
 </p>
 
 ---
