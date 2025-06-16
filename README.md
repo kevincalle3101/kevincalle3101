@@ -50,11 +50,11 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9a19887b-c348-465f-97ec-79892c076f05" width="60" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9a19887b-c348-465f-97ec-79892c076f05" width="80" /></a>
   <a href="https://www.notion.so/" target="_blank"><img src="https://github.com/NX211/homer-icons/blob/master/svg/notion.svg" width="40" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" width="80" /></a>
   <a href="https://typeorm.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/typeorm.svg" width="40" /></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/main/logos/expo.svg" width="40" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/e/expo-1.svg" width="40" /></a>
 </p>
 
 ---
