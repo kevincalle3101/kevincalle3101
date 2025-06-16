@@ -53,7 +53,8 @@
   <a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/user-attachments/assets/9a19887b-c348-465f-97ec-79892c076f05" width="40" /></a>
   <a href="https://www.notion.so/" target="_blank"><img src="https://github.com/NX211/homer-icons/blob/master/svg/notion.svg" width="40" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" width="80" /></a>
-  <a href="https://typeorm.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/typeorm.svg" width="40" /></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://github.com/pheralb/svgl/blob/main/static/library/typeorm.svg" width="60" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://github.com/file-icons/icons/blob/master/svg/Expo.svg" width="40" /></a>
 </p>
 
 ---
