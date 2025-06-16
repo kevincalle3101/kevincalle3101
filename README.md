@@ -1,31 +1,37 @@
-# 👋 Hi, I'm Kevin Calle
+<h1 align="center">Hi 👋, I'm Kevin Calle</h1>
+<h3 align="center">Fullstack Web Developer from Perú</h3>
 
-**Fullstack Developer** from **Perú**, passionate about building fast, beautiful, and scalable web apps.
+<p align="center">
+  <img src="https://res.cloudinary.com/db7abalur/image/upload/v1697049390/Agilix/codingVintage_kbymcx.gif" alt="coding kevin calle" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevincalle3101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Projects & Current Focus
 
-- 🔭 Currently building [HOMI.GG](https://github.com/flexworkFullteam/client)
+- 🔭 Working on [HOMI.GG](https://github.com/flexworkFullteam/client)
 - 🌱 Learning **React Native**
-- 💬 Ask me about: `React`, `Zustand`, `TypeScript`, `Node.js`, `NestJS`
-- 📫 Reach me at: **kevincalle3101@gmail.com**
-- 🧾 [My CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
-- ⚡ Fun fact: My speaking voice is deep—but my singing voice is smooth 😄
+- 💻 All my projects: [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)
 
 ---
 
-## 🔗 Links
+## 💬 Ask Me About
 
-- 🌐 [Portfolio Website](https://www.kevincalleportfolio.site)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-calle-53935b273/)
-- 🧠 [HackerRank](https://www.hackerrank.com/kevincalle31011)
+**React**, **Zustand**, **TypeScript**, **Node.js**, **NestJS**
 
 ---
 
-## 🛠️ Tech Stack
+## 📫 Contact Me
 
-```ts
-Frontend:  React · Next.js · TypeScript · Redux · TailwindCSS · SCSS  
-Backend:   Node.js · NestJS · Express · PostgreSQL  
-Other:     Figma · Git · Postman · Photoshop · Jest · Babel · Webpack  
+- 📧 Email: kevincalle3101@gmail.com  
+- 📄 [My CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)
+
+---
+
+## ⚡ Fun Fact
+
+> I have a **thick speaking**
