@@ -27,7 +27,7 @@
   </a>
 </p>
 
----
+<h1></h1>
 
 ### 🛠️ Languages and Tools
 
@@ -57,7 +57,7 @@
   <a href="https://expo.dev/" target="_blank"><img src="https://github.com/detain/svg-logos/blob/master/svg/e/expo-1.svg" width="40" /></a>
 </p>
 
----
+<h1></h1>
 
 ### 📊 GitHub Stats
 
