@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="50" />
   <img src="https://reactnative.dev/img/header_logo.svg" width="40" />
   <img src="https://github.com/NX211/homer-icons/blob/master/svg/notion.svg" width="40" />
 </p>
