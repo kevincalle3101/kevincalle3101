@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [Kevin Calle Portfolio](https://www.kevincalleportfolio.site)  
 - 💬 Ask me about **React, Zustand, Typescript, Node.js, Nest**  
 - 📫 How to reach me: **kevincalle3101@gmail.com**  
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1v7hIwMkQs45hOnkYRHLQj103Vw73TDWY/view?usp=sharing)  
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1K_XumyEM_uyeoSy9_3qjUHQF6T3WG8fw/view?usp=drive_link)  
 - ⚡ Fun fact: **I have a thick speaking voice, but fine voice when I sing**
 
 <h1></h1>
